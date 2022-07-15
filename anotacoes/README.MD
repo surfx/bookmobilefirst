@@ -59,3 +59,6 @@ Para cores degradê, usar a propriedade `background:`
 [Pseudo classes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes)
 [Pseudo-elementos](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-elements)
 [Heroku](https://www.alura.com.br/artigos/heroku-vercel-outras-opcoes-cloud-plataforma)
+[Readme](https://www.alura.com.br/artigos/escrever-bom-readme)
+[Curso git](https://cursos.alura.com.br/course/git-github-controle-de-versao)
+[Layouts Responsivos](https://cursos.alura.com.br/course/mobile-first-layouts-responsivos)
