@@ -58,3 +58,4 @@ Para cores degradê, usar a propriedade `background:`
 [Sobre Design Responsivo](https://www.alura.com.br/artigos/por-que-um-design-responsivo-e-importante-para-potencializar-seu-marketing)
 [Pseudo classes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes)
 [Pseudo-elementos](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-elements)
+[Heroku](https://www.alura.com.br/artigos/heroku-vercel-outras-opcoes-cloud-plataforma)
